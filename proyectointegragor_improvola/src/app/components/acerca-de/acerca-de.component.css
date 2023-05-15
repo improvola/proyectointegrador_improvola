@@ -1,0 +1,28 @@
+.row{
+    padding: 5%;
+}
+
+div{
+    background-color: #1E1E1E;
+    text-align: center;
+}
+
+p{
+    color: #E5E5E5;
+}
+
+h1{
+    color: #D5D7F7;
+}
+
+#nombre{
+   font-weight: bold;
+   font-size: 2rem;
+   margin-top: 5%;
+}
+
+#fotodeperfil{
+    border-radius: 55%;
+    box-shadow: 3px 3px 3px #161616;
+}
+#fotodeperfil:hover {filter: opacity(.5);}

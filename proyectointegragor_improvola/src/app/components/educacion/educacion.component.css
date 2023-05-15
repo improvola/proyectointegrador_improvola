@@ -1,0 +1,18 @@
+.row{
+    padding: 2%;
+}
+
+div{
+    background-color: black;
+    padding-left: 25%;
+    padding-top: 2%;
+}
+
+h1{
+    color:#D5D7F7;
+    text-align: center;
+}
+
+ul{
+    color: white;
+}

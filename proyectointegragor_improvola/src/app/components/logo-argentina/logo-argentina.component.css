@@ -1,3 +1,33 @@
 #logoAP{
     width: 100px;
+
+}
+
+img{
+    width: 50px;
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2%;
+}
+
+/*VISTA MOBILE*/
+@media (max-width: 575px){
+
+    .container{
+        flex-direction: column;
+    }
+    
+    .redes{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .redes img{
+        margin: 0.5em;
+    }
 }
