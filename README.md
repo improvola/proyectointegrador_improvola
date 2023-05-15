@@ -3,7 +3,8 @@
 
 ![portfolio](2.png)
 ```
-## Proyecto de Notas que funciona de forma Online y Offline con Service Worker 
+## Proyecto  Integrador como TP Final de Argentina Programa 4.0
+#EN CONSTRUCCION
 
 ```
 ![screen](1.png)
