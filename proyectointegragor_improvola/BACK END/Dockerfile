@@ -1,6 +1,6 @@
 //dockerfile act
 
 FROM amazoncorretto:11-alpine-jdk
-MAINTAINER MGB
-COPY target/mgb-0.0.1-SNAPSHOT.jar  mgb-app.jar
+MAINTAINER IMP
+COPY target/imp-0.0.1-SNAPSHOT.jar  imp-app.jar
 ENTRYPOINT ["java","-jar","/imp-app.jar"]
