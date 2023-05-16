@@ -17,9 +17,6 @@ https://github.com/improvola/argentinaprograma-frontend
  TP FINAL DE ARGENTINA PROGRAMA 4.0
 ## FRONT END DEL TRABAJO
 
-![web](web.gif)
-\\\\\\\\\\\\\\\\\
-
 ![portfolio](2.png)
 
 \\\\\\\\\\\\\\\\\\\
