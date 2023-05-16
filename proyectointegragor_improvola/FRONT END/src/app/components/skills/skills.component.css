@@ -8,8 +8,30 @@ h1{
     color: whitesmoke;
 }
 
+p{
+    color: azure;
+}
+
 div{
     text-align: center;
     background-color: black;
     padding: 2%;
 }
+
+progress {
+    align-items: center;
+    border: none;
+    border-radius: 2rem;
+    width: 30%;
+    height: 10px;
+    animation: prog 2s linear;
+    }
+    
+    ::-webkit-progress-bar-value {background-color: #2bf21d; border-radius: 2rem;}
+    ::-webkit-progress-value {background-color: #24f21d; border-radius: 2rem;}
+    ::-moz-progress-bar {background-color: #1df228; border-radius: 2rem;}
+    
+    @keyframes prog {
+    0% {width: 0%; background-color: #f1f1f1;}
+    30% {width: 30%;}
+    }
