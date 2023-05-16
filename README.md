@@ -3,7 +3,7 @@
 Te invito a ver mi perfil para otros trabajos.
 FRONT Y BACK SEPARADO EN EL SIGUIENTE LINK
 ```
-[BACK END](https://github.com/improvola/argentinaprograma-backend)
+![BACK END](https://github.com/improvola/argentinaprograma-backend)
 ```
 ```
 [FRONT END](https://github.com/improvola/argentinaprograma-frontend)
